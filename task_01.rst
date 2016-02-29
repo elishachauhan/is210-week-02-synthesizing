@@ -44,7 +44,8 @@ It's amazing how nice people are in the Python development world. Just as with a
   - Don't give unnecessary details if they aren't needed
 
 
-  - Don't start a question with an apology or an announcement that you're going to ask the question. *Just ask the question*
+  - Don't start a question with an apology or an announcement that you're going to ask the question. 
+    *Just ask the question*
 
 *********
 The Tools
@@ -58,17 +59,21 @@ Docutils
 
 A fantastic documentation generator that interprets reStructuredText and turns it into rich documents.
 
-++++++
+-------
 Django
-++++++
+-------
 
-One of the world's leading content management systems of the web. To learn aboutmore about Django, visit:| https://www.djangoproject.com/
+One of the world's leading content management systems of the web. To learn
+more about Django, visit:
 
-+++++++
+https://www.djangoproject.com
+
+-------
 Pyramid
-+++++++
+-------
 
-A relative newcomer to the web framework work. Pyramid began as part of the Pylons project and has an interesting (though challenging) templating language.
+A relative newcomer to the web framework work. Pyramid began as part of the 
+Pylons project and has an interesting (though challenging) templating language.
 
 *************
 Other Details
@@ -81,13 +86,16 @@ Other Details
 
 .. table:: Sources
 
-   ======== =============
+   ======== ===================
    **Name** **Contact**
-   ======== =============
+   ======== ===================
    Me       me@mysite.com
    Myself   myself@me.com
    I        i@mii.com
-   ======== =============
+   ======== ===================
+
+.. Note::
+    This is just a little taste of how great Python can be!
 
                    
                       
